@@ -4,7 +4,7 @@ An easiest way to use php in electron.
 
 **Clone and run for a quick way to see Electron4PHP in action.**
 ```
-git clone https://github.com/AJ-TechSoul/ELECTRON-4-PHP/
+git clone https://github.com/johnhart96/ELECTRON-4-PHP/
 cd ELECTRON-4-PHP
 npm install
 npm start
@@ -18,7 +18,7 @@ A basic Electron4PHP application needs just these files:
 - `main.js` - Starts the app and creates a browser window to render HTML. This is the app's **main process**.
 - `index.php` - A web page to render. This is the app's **renderer process**.
 
-## For macOS Monteray or later users
+## For macOS Monterey or later users
 
 macOS has removed the default PHP instance from 12.0 onwards. Please see this link to re-install it https://github.com/shivammathur/homebrew-php
 
